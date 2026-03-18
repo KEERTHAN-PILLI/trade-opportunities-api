@@ -3,7 +3,7 @@ uvicorn
 pydantic
 pydantic-settings
 google-generativeai
-duckduckgo-search
+ddgs
 slowapi
 python-dotenv
 httpx
